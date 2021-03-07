@@ -13,7 +13,7 @@ Education
 :   **PhD, Computer Science**; Tomsk State University of 
 Control Systems and Radioelectronics 
 
-    *Thesis title: Model, method, and software suits for diagnostics of rotor blades.*
+    *Thesis title: Model, method and software suits for diagnostics of rotor blades.*
 
 2017-2019
 :   **MSc, Electronics and Nanoelectronics**; Tomsk State University of 
