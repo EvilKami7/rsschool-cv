@@ -1,2 +1,2 @@
 # rsschool-cv
-CV
+https://EvilKami7.github.io/rsschool-cv/cv
